@@ -1,5 +1,7 @@
 # SECM-Project--Masters-Project-
 
+##Introduction
+
 The objective of this project is to use machine learning to deconvolute topography and reactivity of catalytic substrates in Scanning Electrochemical Microscopy. Historically this has been done by solving partial differential equations which governs the science and theory behind the data acquired (One experiment provides one data point in the form a graph known as approach curve. See Figure 1 during Scanning Electrochemical Microscopy which is a microscopy technique that is used to study the structure-reactivity relationship of electrocatalysts. This project provides an alternative to solving the said partial differential equations.
 
 ![image](https://user-images.githubusercontent.com/55726382/172060837-777105f8-842f-44f7-b87c-5e45d81e3616.png)
