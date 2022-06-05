@@ -33,6 +33,6 @@ All models were then tested 4 real world experimental approach curve data as wel
 
 ![image](https://user-images.githubusercontent.com/55726382/172061085-f555033c-02f1-4d15-89a3-87e257271ff2.png)
 
-During the experimental phase of this project I tried creating small data sets and tested on different models using Scikit-learn to get a general idea of how the model is responding to the data. Here I have experimented with using both x and y axis at each point of the approach curves as feature instead of using y-axis values alone or the slope values of the curves. The code can be found https://github.com/DinuRajapakse/SECM-Project--Masters-Project-.
+During the experimental phase of this project I tried creating small data sets and tested on different models using Scikit-learn to get a general idea of how the model is responding to the data. Here I have experimented with using both x and y axis at each point of the approach curves as feature instead of using y-axis values alone or the slope values of the curves. The code can be found in https://github.com/DinuRajapakse/SECM-Project--Masters-Project-/blob/main/ML%20Code/Supporting%20code%20info.ipynb.
 
 It was concluded that MLP models performed very well on ideal data (tested well on the test set but relatively poorly on ideal-data (real experimental data). CNN performed well on non-ideal data (tested well on the real experimental data as well).
